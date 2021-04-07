@@ -20,10 +20,16 @@ body {
 	background-repeat: no-repeat;
 	background-color: #000000;
 	text-align: center;
-	
+	font-family: 'Roboto', sans-serif;
+}
+
+#video{
+	float: right;
+	margin: 1em;
 }
 
 #container{
+	float: left;
 	background-color: #3d6391;
 	width: 424px;
 	color: #FFFFFA;
@@ -39,7 +45,7 @@ body {
 }
 
 .icon{
-	width: 40px;
+	width: 32px;
 }
 
 h1{
@@ -65,13 +71,6 @@ a{
 
 ul{
 	text-align: left;
-}
-
-img{
-	text-align: initial;
-	position: absolute;
-	bottom: 0;
-	margin: 1px;
 }
 
 html, body{
