@@ -18,12 +18,13 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-color: #75c1f6;
+	background-color: #000000;
+	text-align: center;
 	
 }
 
 #container{
-	background-color: #3d649c;
+	background-color: #3d6391;
 	width: 424px;
 	color: #FFFFFA;
 	padding: 15px;
@@ -32,7 +33,7 @@ body {
 }
 
 h1{
-	font-size: 80px;
+	font-size: 50px;
 }
 
 h2{
@@ -42,8 +43,13 @@ h2{
 	border-radius: 5px;
 }
 
+p{
+	padding: 5px;
+	text-align: justify;
+}
+
 a{
-	color: #3D6391;
+	color: #f2b44f;
 	text-decoration: none;
 }
 
