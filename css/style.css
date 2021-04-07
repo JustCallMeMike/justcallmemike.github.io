@@ -32,6 +32,16 @@ body {
 	height: 100%;
 }
 
+.pic{
+	position: relative;
+	width: 150px;
+	border-radius: 50%;
+}
+
+.icon{
+	width: 40px;
+}
+
 h1{
 	font-size: 50px;
 }
@@ -53,6 +63,18 @@ a{
 	text-decoration: none;
 }
 
+ul{
+	text-align: left;
+}
+
+img{
+	text-align: initial;
+	position: absolute;
+	bottom: 0;
+	margin: 1px;
+}
+
 html, body{
 	height: 100%;
 }
+
