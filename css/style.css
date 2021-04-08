@@ -38,6 +38,14 @@ body {
 	height: 100%;
 }
 
+#footer{
+	display: block;
+}
+
+.clear{
+	clear: both;
+}
+
 .pic{
 	position: relative;
 	width: 150px;
@@ -46,6 +54,7 @@ body {
 
 .icon{
 	width: 32px;
+	float: left;
 }
 
 h1{
